@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290945431993",
+    "project_id": "wookstagram-62ba1",
+    "storage_bucket": "wookstagram-62ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290945431993:android:8dcc5829fccd0c7c675e68",
+        "android_client_info": {
+          "package_name": "com.jinwookss.wookstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290945431993-7qdafo593ct5f8u1ttj28g0096iqm4ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDOk4awFdef2HA_lwZGTBRNrJ7Qc0MC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290945431993-7qdafo593ct5f8u1ttj28g0096iqm4ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
