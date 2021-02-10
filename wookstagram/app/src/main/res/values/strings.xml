@@ -6,7 +6,8 @@
     <!-- Sign In -->
     <string name="email">Email</string>
     <string name="password">Password</string>
-    <string name="signin_email">Signup or Signin by email</string>
+    <string name="signup_email">Sign up</string>
+    <string name="signin_email">Sign in</string>
     <string name="signin_google">Google login</string>
     <string name="signin_facebook">Facebook login</string>
     <string name="signup_complete">Membership success</string>
@@ -50,6 +51,6 @@
     <string name="back">Back</string>
 
     <!-- etc -->
-    <item name="visible" type="id"/>
-    <item name="masked" type="id"/>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
 </resources>

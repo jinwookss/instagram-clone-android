@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#ededed</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#03DAC6</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+
     <color name="colorPrimaryDark">#e1e1e1</color>
     <color name="colorLightGray">#f1f1f1</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorDivision">#e0e0e0</color>
     <color name="colorNavIcon">#1d1d1d</color>
+    <color name="colorBlur">#88000000</color>
 
     <color name="colorGoogleSignIn">#d34836</color>
     <color name="colorGoogleSignInPressed">#b02513</color>
